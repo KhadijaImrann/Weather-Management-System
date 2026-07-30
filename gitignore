@@ -1,0 +1,11 @@
+# Compiled executable
+main.exe
+*.exe
+*.out
+
+# Sensitive files (contains plaintext user credentials)
+users.txt
+
+# OS / Editor junk files
+.DS_Store
+Thumbs.db

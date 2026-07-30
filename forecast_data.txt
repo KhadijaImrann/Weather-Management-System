@@ -1,0 +1,5 @@
+Lahore,Monday,2026-5-1,23,36,17,1011,Rainy
+Lahore,Tuesday,2026-5-2,36,77,6,1006,Stormy
+Lahore,Wednesday,2026-5-3,37,55,0,1028,Rainy
+Lahore,Thursday,2026-5-4,26,79,13,1026,Rainy
+Lahore,Friday,2026-5-5,11,58,8,1026,Cloudy

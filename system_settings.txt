@@ -1,0 +1,3 @@
+auto_save=true
+metric_units=true
+refresh_interval=5
